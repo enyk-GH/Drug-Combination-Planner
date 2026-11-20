@@ -1,0 +1,5 @@
+*.exe
+*.o
+*.out
+dp_table.svg
+.vscode/
